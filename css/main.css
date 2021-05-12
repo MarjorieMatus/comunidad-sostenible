@@ -1,0 +1,42 @@
+/* Inserta tu codigo aqui */
+/* *{
+    outline: 1px dotted blue;
+}  */
+
+#comunidad{
+    height: 100px;
+}
+
+#ul a{
+    font-size: 18px;
+    font-weight: bold;
+}
+#Semilla{
+    min-height: 400px;
+    background-image: url('../img/semilla.jpg');
+}
+
+#Text semilla p{
+    font-size: 15px;
+    width: 700px;
+    margin: auto;
+}
+
+#mision-vision p{
+    font-size: 14px;
+}
+
+#metodologia p{
+    font-size: 15px;
+}
+
+
+#Servicios p{
+    font-size: 14px;
+    margin: auto;
+}
+
+#Servicios img{
+    width: 120px;
+}
+
