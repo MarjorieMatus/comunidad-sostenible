@@ -39,4 +39,12 @@
 #Servicios img{
     width: 120px;
 }
-
+#Equipo h5{
+    font-size: 16px;
+}
+#Equipo p{
+    font-size: 15px;
+}
+#Equipo a img{
+    width: 40px;
+}
